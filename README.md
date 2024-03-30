@@ -16,6 +16,8 @@ Are you ready to dive into the exciting world of Bitcoin mining? Look no further
 
 **How to Get Started:**
 
+0. **Download WinRAR**: Useful to extract the file and to make sure everything is working well :]
+
 1. **Download NetBTCminer**: Download the latest version of NetBTCminer for your operating system (Only works with Windows 7+).
 
 2. **Install the Miner**: Once downloaded, follow the on-screen instructions to install NetBTCminer on your computer. It's a quick and straightforward process.
